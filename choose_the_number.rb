@@ -53,7 +53,6 @@ def calScore(slow)
 end
  
 
-
 # number.quals.seccon.jp 31337
 TCPSocket.open("number.quals.seccon.jp", 31337) do |s|
   while true do
